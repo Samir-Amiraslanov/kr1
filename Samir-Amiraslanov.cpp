@@ -25,7 +25,7 @@ Point q,w,e;
 public:
 void consT1(){
 	
-	
+	 
 	
 
 }
